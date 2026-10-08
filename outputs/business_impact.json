@@ -1,0 +1,27 @@
+{
+  "threshold": 0.37313342094421387,
+  "test_set_size": 31994,
+  "confusion_matrix": {
+    "tp": 2634,
+    "fp": 18377,
+    "fn": 687,
+    "tn": 10296
+  },
+  "metrics": {
+    "recall": 0.7931,
+    "precision": 0.1254,
+    "false_alarm_rate": 0.6409
+  },
+  "cost_assumptions": {
+    "cost_per_intervention_BRL": 8.0,
+    "cost_per_bad_review_BRL": 75.0,
+    "annual_order_volume": 50000
+  },
+  "test_period": {
+    "without_model_BRL": 249075.0,
+    "with_model_BRL": 219613.0,
+    "net_savings_BRL": 29462.0
+  },
+  "annualised_savings_BRL": 46043.01,
+  "roi_per_dollar_spent": 0.18
+}

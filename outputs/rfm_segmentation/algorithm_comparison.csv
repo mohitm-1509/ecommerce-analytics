@@ -1,0 +1,3 @@
+algorithm,k,silhouette,calinski_harabasz,davies_bouldin
+K-Means,3,0.4098,77853.69,0.767
+DBSCAN,5,0.1975,85.38,0.5391

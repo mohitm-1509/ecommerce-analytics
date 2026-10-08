@@ -1,0 +1,18 @@
+data/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.venv/
+venv/
+models/
+.idea/
+.DS_Store
+
+# Large generated CSVs (regenerate with pipeline)
+outputs/rfm_segmentation/clustered_customers.csv
+outputs/rfm_segmentation/pca_transformed.csv
+outputs/rfm_segmentation/rfm_raw.csv
+outputs/rfm_segmentation/rfm_scaled.csv
+outputs/features.csv
+.Rhistory

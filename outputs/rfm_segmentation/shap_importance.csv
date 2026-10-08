@@ -1,0 +1,10 @@
+cluster,feature,mean_abs_shap
+0,recency,0.4777
+0,frequency,0.0279
+0,monetary,0.0107
+1,recency,0.0008
+1,frequency,0.0567
+1,monetary,0.0056
+2,recency,0.4784
+2,frequency,0.0288
+2,monetary,0.0076

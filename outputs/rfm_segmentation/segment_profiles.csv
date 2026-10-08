@@ -1,0 +1,4 @@
+cluster,recency_mean,recency_median,recency_std,frequency_mean,frequency_median,frequency_std,monetary_mean,monetary_median,monetary_std,count,pct,segment_label
+0,155.0,159.0,59.88,1.0,1.0,0.0,153.71,105.69,165.88,42865,45.9,Potential loyalists
+1,268.62,248.0,142.96,2.0,2.0,0.0,294.7,225.55,222.65,2801,3.0,Champions
+2,405.02,386.0,104.61,1.0,1.0,0.0,155.99,105.31,168.7,47691,51.1,Hibernating
